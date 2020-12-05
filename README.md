@@ -1,13 +1,11 @@
 # Flappy-Bird
-
-# portfolio
-Portfolio do desenvolvedor
+Jogo desenvolvido em HTML, CSS e JavaScript.
 
 ## Tarefas
 
 O controle das tarefas desse projeto será realizado no GitHub
 
-## Ícones
+## Legenda (ícones)
 
 - :package: Nova funcionalidade
 - :up: Atualização
